@@ -18,4 +18,4 @@ https://wokwi.com/projects/415174869895648257
 
 Foi criado um servidor NODE-RED internamente na empresa. O link para acesso ao mesmo segue abaixo:
 
-200.205.150.108:6557
+https://200.205.150.108:6557
