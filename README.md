@@ -11,7 +11,13 @@ O trabalho é constituído por um sensor de temperatura e umidade DHT11 conectad
 
 ## Projeto WOKWI
 
+Wokwi é um simulador de eletrônica online. Você pode usá-lo para simular Arduino, ESP32 e muitas outras placas, componentes e sensores populares.
+
+Abaixo o esquema utilizado no projeto:
+
 <img width="470" src="/Imagens/wokwi-project.png">
+
+O projeto pode ser acessado através do link:
 
 https://wokwi.com/projects/415174869895648257
 
