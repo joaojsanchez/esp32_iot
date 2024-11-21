@@ -1,7 +1,10 @@
 # IFSP Catanduva
 
-Trabalho final
+Trabalho apresentado para a disciplina ...
 
+## Visão Geral
+
+O trabalho é constituído por um sensor de temperatura e umidade DHT11 conectado ao ESP32. Os dados originados no sensor são publicados em um tópico via MQTT.
 
 ## Projeto WOKWI
 
