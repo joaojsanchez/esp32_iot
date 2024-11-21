@@ -1,6 +1,6 @@
 # IFSP Catanduva
 
-Trabalho apresentado para a disciplina ...
+Trabalho desenvolvido para a disciplina Plataformas de Prototipação para IoT do curso de Especialização em Internet das Coisas do Instituto Federal de São Paulo - Câmpus Catanduva.
 
 <br>
 
