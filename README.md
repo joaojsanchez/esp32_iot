@@ -11,7 +11,7 @@ O trabalho é constituído por um sensor de temperatura e umidade DHT11 conectad
 
 ## Projeto WOKWI
 
-/Imagens/wokwi-project.png
+/esp32_iot/Imagens/wokwi-project.png
 
 https://wokwi.com/projects/415174869895648257
 
