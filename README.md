@@ -7,7 +7,7 @@ Trabalho desenvolvido para a disciplina Plataformas de Prototipação para IoT d
 ## Visão Geral
 
 A ideia geral do trabalho é realizar o monitoramento do resfriamento do ambiente de um Datacenter da empresa onde os alunos trabalham.
-O trabalho é constituído por um sensor de temperatura e umidade DHT11 conectado ao ESP32. Os dados originados no sensor são publicados em um tópico via MQTT.
+O trabalho é constituído por um sensor de temperatura e umidade DHT11 conectado ao ESP32. Os dados originados no sensor são publicados em um tópico via MQTT. Os dados são acessados por um dashboard Node-RED e armazenados em um banco de dados MySQL.
 
 <br>
 
@@ -27,6 +27,6 @@ https://wokwi.com/projects/415174869895648257
 
 ## NODE-RED
 
-Foi criado um servidor NODE-RED internamente na empresa. O link para acesso ao mesmo segue abaixo:
+Foi criado um servidor NODE-RED na instância da AWS. O link para acesso ao mesmo segue abaixo:
 
 http://15.228.74.197:1880
