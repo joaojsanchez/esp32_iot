@@ -31,10 +31,14 @@ Foi criado um servidor NODE-RED na instância da AWS. O link para acesso ao mesm
 
 http://15.228.74.197:1880
 
+<br>
+
 Abaixo o Fluxo criado.
 Os dados são recebidos através da conexão com o servidor MQTT e salvos em um banco de dados MYSQL.
 
 <img width="470" src="/Imagens/nodered-fluxo.jpeg">
+
+<br>
 
 O dashboard exibe os dados e gráficos de Temperatura e Umidade.
 
