@@ -38,6 +38,8 @@ http://15.228.74.197:1880
 Abaixo o Fluxo criado.
 Os dados são recebidos através da conexão com o servidor MQTT e salvos em um banco de dados MYSQL.
 
+Código json do Fluxo: https://github.com/joaojsanchez/esp32_iot/blob/main/flows.json
+
 <br>
 
 <img width="470" src="/Imagens/nodered-fluxo.jpeg">
