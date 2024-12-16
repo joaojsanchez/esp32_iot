@@ -42,7 +42,9 @@ Os dados são recebidos através da conexão com o servidor MQTT e salvos em um 
 
 <br>
 
-O dashboard exibe os dados e gráficos de Temperatura e Umidade.
+O dashboard exibe os dados e gráficos de Temperatura e Umidade. O link para acesso ao mesmo segue abaixo:
+
+http://15.228.74.197:1880/ui/#!/0?socketid=8UMkoCxWEVFaS1LeAABJ
 
 <br>
 
