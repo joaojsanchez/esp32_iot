@@ -36,10 +36,14 @@ http://15.228.74.197:1880
 Abaixo o Fluxo criado.
 Os dados são recebidos através da conexão com o servidor MQTT e salvos em um banco de dados MYSQL.
 
+<br>
+
 <img width="470" src="/Imagens/nodered-fluxo.jpeg">
 
 <br>
 
 O dashboard exibe os dados e gráficos de Temperatura e Umidade.
+
+<br>
 
 <img width="470" src="/Imagens/nodered-controles.jpeg">
