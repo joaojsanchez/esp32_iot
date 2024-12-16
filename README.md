@@ -38,4 +38,4 @@ Os dados são recebidos através da conexão com o servidor MQTT e salvos em um 
 
 O dashboard exibe os dados e gráficos de Temperatura e Umidade.
 
-<img width="470" src="/Imagens/nodered-controles.png">
+<img width="470" src="/Imagens/nodered-controles.jpeg">
